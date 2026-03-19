@@ -53,7 +53,7 @@ A estrutura do banco de dados foi projetada seguindo as formas normais para evit
 Abaixo estão capturas de tela do sistema em ambiente de produção/teste, demonstrando a usabilidade da aplicação e o foco na experiência do usuário (Clean Design).
 
 ### Tela do Dashboard
-![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
+![Tela do Dashboard](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/dashboard.png?raw=true)
 
 ### Tela de Agenda
 ![Tela de Agenda](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/agenda.png?raw=true)
