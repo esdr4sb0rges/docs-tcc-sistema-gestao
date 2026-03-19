@@ -39,9 +39,6 @@ Este projeto foi construído utilizando as seguintes tecnologias, focando em seg
 
 A estrutura do banco de dados foi projetada seguindo as formas normais para evitar redundância e garantir a integridade referencial do prontuário do paciente.
 
-*(Adicione aqui uma imagem do seu Diagrama de Entidade-Relacionamento - DER)*
-![Diagrama do Banco de Dados](link-da-imagem-do-diagrama-aqui.jpg)
-
 **Estruturas Principais:**
 * **Tabela `Paciente`:** Armazena os dados demográficos. Possui relacionamento 1:N com a tabela de Prontuários (Um paciente possui vários registros clínicos ao longo do tempo).
 * **Tabela `Prontuario`:** Coração do sistema. Aplica chaves estrangeiras (Foreign Keys) ligando o registro médico ao `Paciente`, ao `User` (Aluno que criou) e ao `User` (Professor que avaliou), garantindo a rastreabilidade total de quem fez o quê no sistema.
