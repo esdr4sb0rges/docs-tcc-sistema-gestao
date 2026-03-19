@@ -52,8 +52,14 @@ A estrutura do banco de dados foi projetada seguindo as formas normais para evit
 
 Abaixo estão capturas de tela do sistema em ambiente de produção/teste, demonstrando a usabilidade da aplicação e o foco na experiência do usuário (Clean Design).
 
+### Tela do Dashboard
+![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
+
+### Tela de Agenda
+![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
+
 ### Ficha do Paciente e Histórico Clínico
-![Ficha do Paciente]([link-do-print-aqui.jpg](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/557409a44f4d300fc3d834a0ecf756636d790569/Captura%20de%20tela%202026-03-19%20173442.png))
+![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
 
 ### Formulário de Prontuário Médico
 ![Formulário de Prontuário](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/prontuario.png?raw=true)
