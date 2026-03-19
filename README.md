@@ -53,8 +53,7 @@ A estrutura do banco de dados foi projetada seguindo as formas normais para evit
 Abaixo estão capturas de tela do sistema em ambiente de produção/teste, demonstrando a usabilidade da aplicação e o foco na experiência do usuário (Clean Design).
 
 ### Ficha do Paciente e Histórico Clínico
-*(Suba o print da tela detalhe_paciente.html mostrando os dados e a tabela de prontuários)*
-![Ficha do Paciente](link-do-print-aqui.jpg)
+![Ficha do Paciente]([link-do-print-aqui.jpg](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/557409a44f4d300fc3d834a0ecf756636d790569/Captura%20de%20tela%202026-03-19%20173442.png))
 
 ### Formulário de Prontuário Médico
 *(Suba o print da tela onde o aluno preenche a anamnese e os sinais vitais)*
