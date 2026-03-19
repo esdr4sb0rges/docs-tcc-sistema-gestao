@@ -56,7 +56,7 @@ Abaixo estão capturas de tela do sistema em ambiente de produção/teste, demon
 ![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
 
 ### Tela de Agenda
-![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
+![Tela de Agenda](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/agenda.png?raw=true)
 
 ### Ficha do Paciente e Histórico Clínico
 ![Ficha do Paciente](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/ficha_paciente.png?raw=true)
