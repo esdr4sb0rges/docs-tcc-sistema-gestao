@@ -56,8 +56,7 @@ Abaixo estão capturas de tela do sistema em ambiente de produção/teste, demon
 ![Ficha do Paciente]([link-do-print-aqui.jpg](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/557409a44f4d300fc3d834a0ecf756636d790569/Captura%20de%20tela%202026-03-19%20173442.png))
 
 ### Formulário de Prontuário Médico
-*(Suba o print da tela onde o aluno preenche a anamnese e os sinais vitais)*
-![Formulário de Prontuário](link-do-print-aqui.jpg)
+![Formulário de Prontuário](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/prontuario.png?raw=true)
 
 ### Documento Oficial Gerado (PDF)
 ![Prontuário em PDF](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/pdf_paciente.png?raw=true)
