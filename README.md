@@ -60,8 +60,7 @@ Abaixo estão capturas de tela do sistema em ambiente de produção/teste, demon
 ![Formulário de Prontuário](link-do-print-aqui.jpg)
 
 ### Documento Oficial Gerado (PDF)
-*(Suba um print do PDF gerado pelo sistema com o layout da FADESA)*
-![Prontuário em PDF](link-do-print-aqui.jpg)
+![Prontuário em PDF](https://github.com/esdr4sb0rges/docs-tcc-sistema-gestao/blob/main/pdf_paciente.png?raw=true)
 
 ---
 
